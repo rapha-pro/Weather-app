@@ -39,7 +39,7 @@ def getweather():
         name.config(text="CURRENT WEATHER")
 
         # weather infos
-        API_KEY = "4a0a77c6d65c2cbe5e8c97391e524fd6"
+        API_KEY = #secret
 
         # where to send the request
         BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
